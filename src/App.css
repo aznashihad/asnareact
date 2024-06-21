@@ -1,0 +1,37 @@
+.about{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.imgdiv{
+  width: 100%;
+}
+.aboutimg{
+  width: 100%;
+  margin: 10px;
+  height: 450px;
+  border-radius: 10px;
+  
+}
+.aboutdiv{
+  width: 50%;
+ 
+  
+}
+.aboutdiv h1 {
+  color: #534437;
+ margin-left: 10%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 17%;
+}
+
+.aboutdiv p{
+  color: sienna;
+  padding-left: 10%;
+  margin-top: 15px;
+  margin-right: 25%;
+  font-size: larger;
+  word-spacing: 5px;
+  line-height: 1.4;
+}
